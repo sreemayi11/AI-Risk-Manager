@@ -1,6 +1,4 @@
-Of course, Mimi ❤️. If by **bold** you mean you want the README text already formatted with Markdown headings/bold, paste this **exactly as it is** into `README.md`:
 
-````markdown
 # AI Risk Manager — Cost-Aware Payment Fraud Detection
 
 An AI-powered payment fraud detection and risk scoring system designed to help merchants identify potentially fraudulent transactions while balancing fraud detection against false-positive costs.
