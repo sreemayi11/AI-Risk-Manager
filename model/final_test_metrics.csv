@@ -1,0 +1,12 @@
+Metric,Value
+Precision,0.6483516483516484
+Recall,0.7972972972972973
+F1 Score,0.7151515151515152
+PR-AUC,0.8258802369036781
+True Negatives,56640.0
+False Positives,32.0
+False Negatives,15.0
+True Positives,59.0
+False Positive Rate,0.000564652738565782
+Estimated Cost,182.0
+Decision Threshold,0.1

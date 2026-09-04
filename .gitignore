@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Raw dataset - do not upload
+data/creditcard.csv
+
+# Generated datasets
+data/X_train.csv
+data/X_val.csv
+data/X_test.csv
+data/y_train.csv
+data/y_val.csv
+data/y_test.csv
+
+# Local Streamlit files
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
