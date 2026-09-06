@@ -40,7 +40,7 @@ Cost-Aware Threshold
 ALLOW / REVIEW
         ↓
 Risk Explanation
-````
+```
 
 ---
 
@@ -250,11 +250,6 @@ AI-Risk-Manager/
 │
 └── src/
 ```
-
----
-
-
----
 
 ## 🧠 ML Pipeline
 
